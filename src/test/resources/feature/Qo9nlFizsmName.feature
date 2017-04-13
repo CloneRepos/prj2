@@ -1,3 +1,3 @@
-@ST_84542 @tag1 @tag2 @tag3
+@ST_85064 @tag1 @tag2 @tag3
 Feature: qMlWpvsDBDName
 Check that story can be created.
