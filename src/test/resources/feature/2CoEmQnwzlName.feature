@@ -1,4 +1,4 @@
-@ST_106301 @tag1 @tag2 @tag3
+@ST_106728 @tag1 @tag2 @tag3
 Feature: kWDAKpNNbQName
 Check that story can be created.
 
@@ -7,7 +7,7 @@ Background:
 Given first
 When second
 
-@SC_457689 @BVGT @PUBM @ZYR7
+@SC_458949 @BVGT @PUBM @ZYR7
 Scenario Outline: g6sJystbKgName
 vfskWzoJK7ScenarioDescription
 Given VvI4iBdVpCStep
