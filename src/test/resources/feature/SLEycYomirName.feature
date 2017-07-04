@@ -1,3 +1,3 @@
-@ST_120104 @tag1 @tag2 @tag3
+@ST_120625 @tag1 @tag2 @tag3
 Feature: kIbBWefg0KName
 Check that story can be created.
