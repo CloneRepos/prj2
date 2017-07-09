@@ -1,4 +1,4 @@
-@ST_122193 @Satory_Bad
+@ST_122714 @Satory_Bad
 Feature: Given in only one scenario
   Check Background without given keyword
 
@@ -7,12 +7,12 @@ Background: new name changed
 Given asd
 And kjsdfhk
 
-@SC_519300 @Critical @Test_1
+@SC_521349 @Critical @Test_1
 Scenario: Check scenario
 Given asd
 And kjsdfhk
 
-@SC_519301 @Medium @Test_2
+@SC_521350 @Medium @Test_2
 Scenario: Check another scenario
 When this scenario started without given keyword
 Then gherkin parser must return error
